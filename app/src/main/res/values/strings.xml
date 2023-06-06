@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">onbording</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="food">Food</string>
+    <string name="lorem">Lorem</string>
+    <string name="delivery">Delivery</string>
+    <string name="payment">Payment</string>
+    <string name="one">اعثر علي افضل الصفقات علي جميع المنتجات المفضله</string>
+    <string name="skip">Skip</string>
+    <string name="first">متشلش هم بحث عن منتجات,اكتشف مجموعه كبيره من المنتجات من خلال تطبيقنا</string>
+    <string name="Tawsil">هنوصلك المنتج الخاص بيك لحد عندك بشكل سليم    وبكامل الطلبيه اللي اختارتها</string>
+</resources>
